@@ -15,7 +15,7 @@ replace USER_HOME_DIR with the name of your home directory
 
 #### Debian set runtime.properties
 
-app.video.source=/home/USER_HOME_DIR/aJavaFXSpectrum/v-stream/test_vid.mp4  
+app.video.source=/home/USER_HOME_DIR/v-stream/test_vid.mp4  
 install vlc  
 app.video.native.dir=/usr/lib
 
